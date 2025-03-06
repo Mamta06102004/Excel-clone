@@ -23,11 +23,7 @@ Excel Clone is a web-based spreadsheet application that mimics the core function
 2. **Open `index.html` in a Browser**
    - Simply open the `index.html` file in any modern web browser (Chrome, Edge, Firefox, etc.).
    
-## 📷 Preview
-(Attach screenshots or a demo GIF if available)
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
 
 ## 🤝 Contributing
 Feel free to **fork** the repository and submit pull requests if you'd like to improve the project!
